@@ -1,0 +1,5 @@
+Fulfilled,Order Fulfilled
+Accepted,Order Accepted
+Pending,Delivery Pending
+Not Booked,Order in draft state
+Partially booked,Order is partially booked
