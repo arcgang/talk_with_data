@@ -1,0 +1,10 @@
+creds:
+    api_creds:
+        api_key: <<Your API key>>
+    db_creds:
+        database: <<Your database name>>
+        password: <<Your pasword>>
+        port: 5432
+        query_timeout: 300
+        host: <<postgres hostname>>
+        username: <<postgres db username>>
